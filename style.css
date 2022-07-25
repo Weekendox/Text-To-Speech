@@ -11,11 +11,11 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #5256AD;
+  background: #df6378;
 }
 ::selection{
   color: #fff;
-  background: #5256AD;
+  background: #df6378;
 }
 .wrapper{
   width: 370px;
@@ -91,11 +91,11 @@ form button{
   font-size: 17px;
   cursor: pointer;
   margin-top: 10px;
-  background: #675AFE;
+  background: #ff163d;
   transition: 0.3s ease;
 }
 form button:hover{
-  background: #4534fe;
+  background: #cc1331;
 }
 
 @media(max-width: 400px){
